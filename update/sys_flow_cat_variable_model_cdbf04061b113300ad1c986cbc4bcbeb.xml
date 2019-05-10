@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>c1bf04061b113300ad1c986cbc4bcbeb</id>
+        <name>Action Test Flow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-10 00:22:15</sys_created_on>
+        <sys_id>cdbf04061b113300ad1c986cbc4bcbeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_336399_ipinfo_sp">fdcc0c021b113300ad1c986cbc4bcb9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">fdcc0c021b113300ad1c986cbc4bcb9f</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_cdbf04061b113300ad1c986cbc4bcbeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 00:22:15</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
